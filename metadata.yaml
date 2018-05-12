@@ -1,5 +1,9 @@
 _repo: Thais_6377
+_version: 0.1.0
 alternative_title: Thais
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: France, Anatole
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6377#Thais
 gutenberg_bookshelf:
 - FR Littérature
 - Opera
